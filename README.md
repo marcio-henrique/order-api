@@ -15,5 +15,5 @@ Como testar a REST API:
 - Executar o comando "php artisan key:generate"
 - Executar o comando "php artisan migrate --seed"
 - Executar o comando "composer install"
-- Executar o comando "php artisan serve" (Endereço do servidor local: "127.0.0.1:8000")
+- Executar o comando "php artisan serve" (Endereço do servidor local: "http://127.0.0.1:8000")
 - Testar as rotas GET, PUT, UPDATE E DELETE utilizando alguma ferramenta, como Postman.
